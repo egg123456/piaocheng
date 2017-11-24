@@ -1,0 +1,46 @@
+.header {
+  margin: 50px 0 0 0;
+  background: url(../img/bg.jpg);
+  padding: 60px 0;
+  color: #ccc;
+}
+.header .container {
+  padding: 0 35px;
+}
+.content {
+  padding: 40px 0;
+}
+.content .wai {
+  padding: 0;
+}
+#left .row {
+  background-color: #fff;
+  margin: 0 0 20px;
+  padding: 10px 0;
+}
+#right {
+  margin: 0;
+  padding: 0 15px;
+  background-color: #fff;
+}
+#right blockquote {
+  padding: 0;
+}
+#right blockquote h3 {
+  font-size: 20px;
+  padding: 5px;
+}
+#right .row {
+  margin: 0px -15px;
+  padding: 12px 0;
+}
+.content {
+  background-color: #EEEEEE;
+}
+#footer {
+  padding: 20px;
+  text-align: center;
+  background-color: #666;
+  border-top: 1px solid #ccc;
+  color: #ccc;
+}

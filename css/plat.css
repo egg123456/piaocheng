@@ -1,0 +1,250 @@
+.shell {
+  width: 1282px;
+  margin: 0 auto;
+}
+nav {
+  background-color: #F4F4F4;
+}
+nav .container {
+  width: 970px;
+  padding: 0 13px;
+}
+nav .container .left {
+  padding: 15px 0 5px;
+}
+nav .container .left img {
+  padding: 0 10px 0 0;
+}
+nav .container .left a {
+  font-size: 33px;
+  color: #000;
+}
+nav .container .right {
+  padding: 5px 5px 0;
+}
+nav .container .right a {
+  color: black;
+  margin: 0 15px;
+  font-weight: 200;
+}
+nav .container .right img {
+  vertical-align: bottom;
+}
+.banner {
+  position: relative;
+}
+.banner .img {
+  width: 100%;
+  overflow: hidden;
+}
+.banner .content {
+  position: absolute;
+  top: 0;
+  width: 1282px;
+  height: 493px;
+  background-color: rgba(24, 158, 207, 0.95);
+  text-align: center;
+  padding: 130px 0 0;
+}
+.banner .content h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+}
+.banner .content p {
+  padding: 35px 0 0;
+}
+.banner .content p input {
+  height: 47px;
+  width: 370px;
+  color: #F4F4F4;
+  padding: 0 0 0 10px;
+  box-sizing: border-box;
+  margin: 0 5px 0 0;
+}
+.banner .content p .btn {
+  width: 80px;
+  height: 45px;
+  margin-bottom: 0 0 5px;
+  background-color: #4FC1E9;
+}
+.intr {
+  width: 100%;
+  position: absolute;
+  bottom: -15px;
+  font-size: 20px;
+  color: white;
+}
+.intr span {
+  background-color: #2190C1;
+  padding: 5px 30px;
+}
+.content1 {
+  padding: 50px 0;
+  text-align: center;
+}
+.content1 .con1 {
+  display: inline-block;
+  width: 230px;
+}
+.content1 .con1 .img {
+  margin: 0 auto;
+}
+.content1 .con1 h3 {
+  margin: 40px 0 30px;
+  color: #2190C1;
+  text-align: center;
+}
+.content1 .con1 p {
+  width: 190px;
+  font-size: 12px;
+  margin: 0 auto 30px;
+  text-align: left;
+}
+.content1 .con1 .btn {
+  display: block;
+  margin: 0 auto;
+  line-height: 20px;
+  width: 80px;
+  height: 30px;
+  color: white;
+  background-color: #2190C1;
+}
+.content2 {
+  position: relative;
+  height: 514px;
+  background-color: #18739B;
+}
+.content2 .intr {
+  width: 100%;
+  position: absolute;
+  top: -15px;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  z-index: 22;
+}
+.content2 .intr span {
+  background-color: #F98561;
+  display: inline-block;
+  padding: 0;
+  width: 145px;
+  text-align: center;
+  line-height: 36px;
+}
+.content2 .info {
+  width: 785px;
+  padding: 80px 0 80px 220px;
+  text-align: center;
+}
+.content2 .info a {
+  position: relative;
+  display: inline-block;
+  width: 90px;
+  margin: 20px 27px;
+}
+.content2 .info a.last {
+  margin-right: 0;
+}
+.content2 .info a div {
+  margin: 0 auto;
+}
+.content2 .info h4 {
+  color: #33B3EB;
+  margin: 20px 0;
+}
+.content2 .img {
+  position: relative;
+  padding: 80px 0;
+}
+.content3 {
+  position: relative;
+}
+.content3 .intr {
+  width: 100%;
+  position: absolute;
+  top: -15px;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  z-index: 22;
+}
+.content3 .intr span {
+  background-color: #2190C1;
+  display: inline-block;
+  padding: 0;
+  width: 145px;
+  text-align: center;
+  line-height: 36px;
+}
+.content3 .context {
+  text-align: center;
+  padding: 20px 0 40px;
+}
+.content3 .context a {
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 20px 100px;
+  width: 125px;
+  text-align: center;
+}
+.content3 .context a div {
+  margin: 0 auto;
+}
+footer {
+  background-color: #18739B;
+  padding: 40px 0;
+  overflow: hidden;
+}
+footer .left {
+  float: left;
+  width: 52%;
+  border-right: 1px solid #2190C1;
+  text-align: right;
+}
+footer .left a {
+  display: inline-block;
+  width: 240px;
+  text-align: center;
+  color: #aaa;
+}
+footer .left a h4 {
+  font-size: 22px;
+  color: #D69075;
+}
+footer .right {
+  float: left;
+}
+footer .right h4 {
+  color: #D69075;
+  padding-left: 50px;
+}
+footer .right ul {
+  list-style: none;
+}
+footer .right ul li {
+  padding: 10px 0;
+}
+footer .right ul li a {
+  color: #bbb;
+  letter-spacing: 2px;
+}
+footer .right ul li a img {
+  padding-right: 10px;
+}
+footer .btm {
+  width: 100%;
+  padding: 50px 0 0;
+  float: left;
+}
+footer .btm p {
+  color: #aaa;
+  text-align: center;
+  font-size: 12px;
+}
+footer .btm p span {
+  display: inline-block;
+  width: 250px;
+  border-bottom: 1px solid #aaa;
+  margin: 0 20px;
+}
